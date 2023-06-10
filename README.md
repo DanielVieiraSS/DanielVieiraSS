@@ -1,5 +1,5 @@
 <h1>Hello! 👋 I'm Daniel Vieira</h1>
-<h3>💻 Web Developer</h3>
+<h3>💻 FullStack Developer</h3>
 <h3>📚 Currently studying Systems Analysis and Development at FATEC</h3>
 <h3>Technologies</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/>
